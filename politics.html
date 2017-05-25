@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>263chat</title>
+
+    <!-- CSS  -->
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Lora|Roboto|Roboto+Condensed|Titillium+Web" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="lib/genericons/genericons.css">
+    <link rel="stylesheet" href="base.css">
+    <script type="text/javascript" src="js/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyBnMCDzwMXNhSh4tByDPKlCs3JH7F5-V60",
+            authDomain: "liveticker-1c33c.firebaseapp.com",
+            databaseURL: "https://liveticker-1c33c.firebaseio.com",
+            storageBucket: "liveticker-1c33c.appspot.com",
+            messagingSenderId: "643222519289"
+        };
+        firebase.initializeApp(config);
+        // Retrieve Firebase Messaging object.
+        const messaging = firebase.messaging();
+        messaging.requestPermission()
+            .then(function() {
+                console.log('Notification permission granted.');
+                // TODO(developer): Retrieve an Instance ID token for use with FCM.
+                // ...
+            })
+            .catch(function(err) {
+                console.log('Unable to get permission to notify.', err);
+            });
+
+
+    </script>
+
+</head>
+<body style="background-color: white; font-family: 'Roboto', sans-serif;">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1747088275621523";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<nav style="position: fixed; margin-top: 0px; z-index: 1004; color:white;overflow-x: hidden; background-color: green"  class="green lighten-1" role="navigation">
+    <div class="nav-wrapper container"><a style="color: white; font-weight: 500" id="logo-container" href="#" class="brand-logo">263chat</a>
+        <ul class="right hide-on-med-and-down">
+            <!--<li><a href="#">Navbar Link</a></li>-->
+
+
+
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+
+            <div class="nav-top">
+                <div style="width: 60%">
+                    <img src="img/chat2.jpg" width="100%">
+                </div>
+
+            </div>
+            <li>
+                <a href="index.html">HOME</a></li>
+            <li onclick=""><a href="#">POLITICS</a></li>
+            <li><a href="#">BUSINESS</a></li>
+            <li><a href="#">ENTERTAINMENT</a></li>
+            <li><a href="#">SPORTS</a></li>
+        </ul>
+        <a style="margin-top: 10px" href="#" id="menu" data-activates="nav-mobile" class="button-collapse waves-effect waves-circle">
+            <!--<img style="margin-top: 15px;" src="img/bar2.png">-->
+            <svg  fill="#ffffff" height="36" viewBox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </a>
+        <a style="display: none;margin-top: 14px" href="index.html" id="left-arrow"  class="left vib waves-effect waves-circle">
+            <!--<img style="margin-top: 15px;" src="img/left-arrow.png">-->
+            <svg style="" fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+            </svg>
+        </a>
+        <a style="margin-top: 8px" href="#modal1" id="more-vert"  class="right dropdown-button waves-effect waves-circle">
+            <svg style="margin-top: 3px" fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>
+            </svg>
+        </a>
+
+        <div  id="modal1" class="modal">
+
+            <ul  style="width: 100%; color: black">
+                <li><a style="width: 100%; color: black">
+                    <div style="width: 100%"  class="row">
+                        <div class="col s12" ><a style="width: 100%; color: black" href="settings.html">Settings</a></div>
+                    </div>
+                </a></li>
+
+
+            </ul>
+
+
+            <!--<div class="switch">-->
+            <!--<label>-->
+            <!--Turn notifications on or off-->
+            <!--<input type="checkbox">-->
+            <!--<span class="lever"></span>-->
+
+            <!--</label>-->
+            <!--</div>-->
+
+
+        </div>
+    </div>
+</nav>
+
+<div id="ptr">
+    <span class="genericon genericon-next"></span>
+
+    <div class="loading">
+        <span id="l1"></span>
+        <span id="l2"></span>
+        <span id="l3"></span>
+    </div>
+</div>
+
+<div id="jonah" style="padding-top: 60px;" class="container">
+
+
+    <div id="spin" class="preloader-wrapper big active">
+        <div class="spinner-layer spinner-green-only">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div><div class="gap-patch">
+            <div class="circle"></div>
+        </div><div class="circle-clipper right">
+            <div class="circle"></div>
+        </div>
+        </div>
+    </div>
+
+
+    <div class="fixed-action-btn horizontal click-to-toggle" style="bottom: 45px;right: 24px;">
+        <a  href="#modal2"  class="btn-floating btn-large light-green">
+            <i class="large material-icons">
+                <svg fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/>
+                </svg>
+            </i>
+        </a>
+
+
+    </div>
+    <div style="z-index: 1004;" id="modal2" class="modal">
+        <div class="modal-content">
+            <img src="img/chat3.png" width="80%">
+            <div style="margin-top: 30px" class="row">
+                <div class="col s6">
+                    <a style="margin-left: 50%" class="btn blue btn-floating pulse"><img src="img/facebook-letter-logo%20(1).png"> </a>
+
+                </div>
+                <div class="col s6">
+                    <a class="btn white btn-floating pulse"><img src="img/twitter%20(1).png"> </a>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="modal-footer">
+            <p style="text-align: center">www.263chat.com</p>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+</div>
+<div style="padding-top: 70px; font-family: 'Roboto', sans-serif; color:black" class="container" id="details">
+
+
+
+</div>
+
+
+
+
+
+
+<!--  Scripts-->
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/init.js"></script>
+<script src="js/moment.js"></script>
+<script src="js/politics.js"></script>
+
+
+
+<!--<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>-->
+<!--<script>-->
+<!--// Initialize Firebase-->
+<!--var config = {-->
+<!--apiKey: "AIzaSyBnMCDzwMXNhSh4tByDPKlCs3JH7F5-V60",-->
+<!--authDomain: "liveticker-1c33c.firebaseapp.com",-->
+<!--databaseURL: "https://liveticker-1c33c.firebaseio.com",-->
+<!--storageBucket: "liveticker-1c33c.appspot.com",-->
+<!--messagingSenderId: "643222519289"-->
+<!--};-->
+<!--firebase.initializeApp(config);-->
+<!--</script>-->
+<script src="js/live.js"></script>
+
+<script src="js/cordova.js">
+</script>
+
+<script src="lib/hammer.2.0.4.js"></script>
+<script src="lib/wptr.1.1.js"></script>
+
+
+<script src="js/pouchdb.js">
+</script>
+
+<script src="js/pouchdb.find.js">
+</script>
+<script>
+
+    var db = new PouchDB('my_database');
+    //    db.destroy(function (err, response) {
+    //        if (err) {
+    //            return console.log(err);
+    //        } else {
+    //            console.log('database deleted!!!!!');
+    //        }
+    //    });
+
+
+    function displayNews() {
+        db.allDocs({include_docs: true, descending: true}, function(err, doc) {
+            redrawTodosUI(doc.rows);
+            if (err){
+                console.log(err);
+            }
+        });
+    }displayNews();
+
+    $(document).ready(function(){
+        // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+        $('.modal').modal();
+    });
+
+</script>
+
+
+</body>
+</html>

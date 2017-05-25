@@ -1,0 +1,4246 @@
+[
+  {
+    "id": 16122,
+    "date": "2017-03-14T14:37:09",
+    "date_gmt": "2017-03-14T12:37:09",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16122"
+    },
+    "modified": "2017-03-14T14:37:09",
+    "modified_gmt": "2017-03-14T12:37:09",
+    "slug": "kaza-univisa-ease-zimbabwe-zambia-tourism",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/kaza-univisa-ease-zimbabwe-zambia-tourism/",
+    "title": {
+      "rendered": "KAZA Univisa To Ease Zimbabwe-Zambia Tourism"
+    },
+    "content": {
+      "rendered": "<p>Zimbabwe and Zambia have re-launched the KAZA UNIVISA to facilitate seamless travel of tourists between the two countries, Principal Director in the Department of Immigration Control, Clemence Masango said.</p>\n<p>The KAZA Univisa project was initially launched in November 2014 as a pilot project following the successful joint facilitation of entry and exit of delegates to the 2013 United Nations World Tourism General Assembly co-hosted by Zimbabwe and Zambia.</p>\n<p>Addressing a media briefing on the re-introduction of the project, Masango said the KAZA Univisa will see a total of 65 countries participating, 25 up from the 40 that started the pilot project in 2014.</p>\n<p>“This time around we have 65 countries that will be taking part in this initiative. These are countries whose nationals are entitled to visa on arrival in both Zimbabwe and Zambia.</p>\n<p>“KAZA countries must now take full ownership of and responsibility over this program it if is to be a success and a permanent feature in the facilitation of tourism and marketing of our products and destination,” explained Masango.</p>\n<p>The KAZA Univisa saves time and money and enables easy travelling between Zimbabwe and Zambia while covering for people who want to enter Botswana for day-trips through the Kazungula border.</p>\n<p>As of 21 December 2016, uptake of the KAZA Univisa stood at 4278 which translates to $213 900 in revenue.</p>\n<p>“We also call upon and encourage the tourism and hospitality industry as the main and direct beneficiary to play a more active role in support of this program as we go into the future,” Masango further stated.</p>\n<p>Meanwhile, Zimbabwe Tourism Authority Chief Executive Officer, Karikoga Kaseke said the initiative is a stepping stone in promoting tourism.</p>\n<p>“The re-introduction of the KAZA Univisa will undoubtedly facilitate seamless travel between the two countries.</p>\n<p>“This development against the background of the expected servicing of the Victoria Falls International Airport by Ethiopian Airlines and Kenyan Airway,” said Kaseke.</p>\n<p>The ZTA boss called for improved access into Zimbabwe and the region, through similar collaborative efforts with other neighboring countries.</p>\n<p>“The industry is crying out for facilitation of tourists through multi-destination access. As such, going forward, it would be prudent for us in the region and beyond to seriously consider the promotion of multi-destination access through the establishment of the tourism visa,” said Kaseke.</p>\n<p>The Univisa is available at Harare, Victoria Falls, Lusaka and Livingstone International airports, the Victoria Falls land border (Zimbabwe and Zambia) and the Kazungula land border (Zimbabwe/Zambia/Botswana).</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Zimbabwe and Zambia have re-launched the KAZA UNIVISA to facilitate seamless travel of tourists between the two countries, Principal Director in the Department of Immigration Control, Clemence Masango said. The KAZA Univisa project was initially launched in November 2014 as a pilot project following the successful joint facilitation of entry and exit of delegates to the&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/kaza-univisa-ease-zimbabwe-zambia-tourism/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2038,
+    "featured_media": 16123,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      902,
+      918
+    ],
+    "tags": [
+      1864,
+      2258,
+      966,
+      2196
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16122"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2038"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16122"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16122/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16123"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16122"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16122"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16122"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16123,
+          "date": "2017-03-14T14:35:22",
+          "slug": "zimbabwe-victoria-falls",
+          "type": "attachment",
+          "link": "http://263chat.com/kaza-univisa-ease-zimbabwe-zambia-tourism/zimbabwe-victoria-falls/",
+          "title": {
+            "rendered": "Zimbabwe-Victoria-Falls"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1680,
+            "height": 755,
+            "file": "2017/03/Zimbabwe-Victoria-Falls.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "Zimbabwe-Victoria-Falls-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-150x150.jpg"
+              },
+              "medium": {
+                "file": "Zimbabwe-Victoria-Falls-300x135.jpg",
+                "width": 300,
+                "height": 135,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-300x135.jpg"
+              },
+              "medium_large": {
+                "file": "Zimbabwe-Victoria-Falls-768x345.jpg",
+                "width": 768,
+                "height": 345,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-768x345.jpg"
+              },
+              "large": {
+                "file": "Zimbabwe-Victoria-Falls-1024x460.jpg",
+                "width": 1024,
+                "height": 460,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-1024x460.jpg"
+              },
+              "newedge-full": {
+                "file": "Zimbabwe-Victoria-Falls-848x536.jpg",
+                "width": 848,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-848x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "Zimbabwe-Victoria-Falls-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "Zimbabwe-Victoria-Falls-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls-263x253.jpg"
+              },
+              "full": {
+                "file": "Zimbabwe-Victoria-Falls.jpg",
+                "width": 1680,
+                "height": 755,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "Copyright © Harold Lassers / Abercrombie &amp; Kent Picture Library",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/Zimbabwe-Victoria-Falls.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16123"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16123"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 902,
+            "link": "http://263chat.com/category/news/",
+            "name": "News",
+            "slug": "news",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/902"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=902"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 918,
+            "link": "http://263chat.com/category/travel/",
+            "name": "Travel",
+            "slug": "travel",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/918"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=918"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 1864,
+            "link": "http://263chat.com/tag/karikoga-kaseke/",
+            "name": "Karikoga Kaseke",
+            "slug": "karikoga-kaseke",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1864"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1864"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2258,
+            "link": "http://263chat.com/tag/kaza-univisa/",
+            "name": "KAZA Univisa",
+            "slug": "kaza-univisa",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2258"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2258"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 966,
+            "link": "http://263chat.com/tag/zimbabwe-tourism-authority/",
+            "name": "Zimbabwe Tourism Authority",
+            "slug": "zimbabwe-tourism-authority",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/966"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=966"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2196,
+            "link": "http://263chat.com/tag/zimbabwe-tourism-authority-chief-executive/",
+            "name": "Zimbabwe Tourism Authority Chief Executive",
+            "slug": "zimbabwe-tourism-authority-chief-executive",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2196"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2196"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16117,
+    "date": "2017-03-14T13:14:39",
+    "date_gmt": "2017-03-14T11:14:39",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16117"
+    },
+    "modified": "2017-03-14T13:14:39",
+    "modified_gmt": "2017-03-14T11:14:39",
+    "slug": "ict-priority-local-authority",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/ict-priority-local-authority/",
+    "title": {
+      "rendered": "ICT Should Be A Priority For Local Authority"
+    },
+    "content": {
+      "rendered": "<p>&nbsp;</p>\n<p>Information and Communication Technology (ICT) is  regarded as the fastest growing sector of the Zimbabwean economy, with a penetration rate of 107%. As (Zimbabwe Information and Communication Technologies (ZICT) we took the time to browse through the internet to identify those local authorities and municipalities in Zimbabwe that have a domain registered, email addresses, a website and are active on the social media.  Having an active domain registered, email address, website and social media presence with relevant council content posted regularly can help boost following by local citizens.  The websites and social media platforms can be used by the local authority to provide access to information on Crime Prevention and Police Assistance, Emergency Alerts and Severe Weather Updates, Town Halls and Council Meetings, Public Service Announcements, Construction Updates and Road Closings, Job Applications, dealing with complains, to name but a few.</p>\n<p><strong>By Jacob Kudzayi Mutisi</strong></p>\n<p>Out of all our twenty six cities and towns, Harare, Bulawayo, Chitungwiza, Mutare, Epworth, Gweru, Kwekwe, Kadoma, Masvingo, Chinhoyi, Norton, Marondera, Ruwa, Chegutu, Zvishavane, Bindura, Beitbridge, Redcliff, Victoria Falls, Rusape, Chiredzi, Kariba, Karoi, Chipinge, Gokwe, Shurugwi,There are only seven local authority that have a domain registered, a working website and active social media actives. These are the City of Harare, Chitungwiza Town Council, Victoria Fall Town Council, Rusape Town Council, Kadoma City Council and the City of Bulawayo. Nonetheless their  facebook accounts are rarely active with some having their last post being as far back as June 2016.</p>\n<p>As for the Rural district councils, we have the Marondera Rural District Council led by Tichafara Gundo, which at least has a domain registered  <a href=\"http://www.maronderardc.org.zw\">www.maronderardc.org.zw</a>, an email <a href=\"mailto:info@maronderardc.org.zw\">info@maronderardc.org.zw</a> and a Facebook account, but no website. We also have Nkayi Rural District Council <a href=\"http://www.nkayirdc.co.zw\">www.nkayirdc.co.zw</a>  having a one page website but no email address and no facebook account. We just could not find any other site.</p>\n<p>In South Africa it is a requirement for all local authorities to have a domain, email address,a website and effective use of social media to communicate with their local citizens. So why are Zimbabwean local authorities not following suit. What surprises us at ZICT is that the process of registering a domain is free and only takes a few hours to do. Why are these local authorities not making the use of ICT effectively. It is the norm through out the world for local authorities to have  these four basic ICT products, which are domain registration, a local emails, a website and to create social media pages.</p>\n<p>What is shocking is that all local authorities who do not have a domain registered use either a gmail, Hotmail or a yahoo account  to communicate. In countries like South Africa and India the governments have banned the use of “Free Emails” like gmail, Hotmail and yahoo to conduct council business due to the wikileaks experience a couple years back.</p>\n<p><em>Jacob Kudzayi Mutisi writes in his personal capacity. He can be contacted on jmutisi@googlemail.com </em></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; Information and Communication Technology (ICT) is  regarded as the fastest growing sector of the Zimbabwean economy, with a penetration rate of 107%. As (Zimbabwe Information and Communication Technologies (ZICT) we took the time to browse through the internet to identify those local authorities and municipalities in Zimbabwe that have a domain registered, email addresses,&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/ict-priority-local-authority/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2128,
+    "featured_media": 16118,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [],
+    "tags": [
+      2256,
+      2257
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16117"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2128"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16117"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16117/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16118"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16117"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16117"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16117"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16118,
+          "date": "2017-03-14T13:11:51",
+          "slug": "biggggg-tech",
+          "type": "attachment",
+          "link": "http://263chat.com/ict-priority-local-authority/biggggg-tech/",
+          "title": {
+            "rendered": "biggggg-tech"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/png",
+          "media_details": {
+            "width": 764,
+            "height": 539,
+            "file": "2017/03/biggggg-tech.png",
+            "sizes": {
+              "thumbnail": {
+                "file": "biggggg-tech-150x150.png",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech-150x150.png"
+              },
+              "medium": {
+                "file": "biggggg-tech-300x212.png",
+                "width": 300,
+                "height": 212,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech-300x212.png"
+              },
+              "newedge-full": {
+                "file": "biggggg-tech-764x536.png",
+                "width": 764,
+                "height": 536,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech-764x536.png"
+              },
+              "newedge-thumb": {
+                "file": "biggggg-tech-555x536.png",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech-555x536.png"
+              },
+              "newedge-small": {
+                "file": "biggggg-tech-263x253.png",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech-263x253.png"
+              },
+              "full": {
+                "file": "biggggg-tech.png",
+                "width": 764,
+                "height": 539,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech.png"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/biggggg-tech.png",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16118"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16118"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [],
+        [
+          {
+            "id": 2256,
+            "link": "http://263chat.com/tag/information-and-communication-technology/",
+            "name": "Information and Communication Technology",
+            "slug": "information-and-communication-technology",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2256"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2256"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2257,
+            "link": "http://263chat.com/tag/zimbabwe-information-and-communication-technologi/",
+            "name": "Zimbabwe Information and Communication Technologi",
+            "slug": "zimbabwe-information-and-communication-technologi",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2257"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2257"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16112,
+    "date": "2017-03-14T10:16:47",
+    "date_gmt": "2017-03-14T08:16:47",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16112"
+    },
+    "modified": "2017-03-14T10:16:47",
+    "modified_gmt": "2017-03-14T08:16:47",
+    "slug": "view-419-makes-nigeria-global-cybercrime-player-misplaced",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/view-419-makes-nigeria-global-cybercrime-player-misplaced/",
+    "title": {
+      "rendered": "The view that &#8216;419&#8217; makes Nigeria a global cybercrime player is misplaced"
+    },
+    "content": {
+      "rendered": "<figure></figure>\n<p>The contemptuous label of “cyber-criminals” is the figurative sword with which the Nigerian image is generally being hacked and left for dead. According to Professor Biko Agozino of Virginia Tech university, <img src=\"https://counter.theconversation.edu.au/content/73791/count.gif?distributor=republish-lightbox-basic\" alt=\"The Conversation\" width=\"1\" height=\"1\" /></p>\n<blockquote><p>“there is a long standing demonisation of Nigeria as being full of criminals.”</p></blockquote>\n<p>This unfortunate generalisation, especially in the media, has a far-reaching negative impact on the overall image of Nigeria as a nation. It’s become the prism with which most Nigerians are viewed and judged globally.</p>\n<p>It stems from the country’s vulnerability in a specific category of cybercrime known as ‘419’ and its offshoots. Dr Mohamed Chawki, President of the International Association of Cybercrime Prevention, explains that the term 419</p>\n<blockquote><p>is coined from section 419 of the Nigerian criminal code dealing with fraud. Nowadays, the axiom ‘419’ generally refers to a complex list of offences which in ordinary parlance are related to stealing, cheating, falsification, impersonation, counterfeiting, forgery and fraudulent representation of facts.</p></blockquote>\n<p>The most widely known component of ‘419’ is cyber fraud &#8211; the culprit behind the blanket labelling of most Nigerians as cyber-criminals.</p>\n<p>But cybercrime in essence encompasses a wide range of crimes other than cyber fraud. These online crimes include cyber stalking, cyber hate speech, cyber espionage, cyber terrorism, cyber colonialism, revenge porn and cyber bullying among others. Nigeria is exclusively implicated in cyber fraud. The country has no significant record of other forms of cyber crimes such as cyber espionage, cyber stalking and revenge porn found predominantly in Western nations.</p>\n<p>The key point here is that the term ‘cybercrime’ is misleading which is why it’s reasonable to call into question Nigeria’s reputation. It’s an image nonetheless buttressed by the US Federal Bureau of Investigation (FBI) and its Internet Crime Complaint Centre which has ranked Nigeria third in the world behind the US and UK.</p>\n<p>But the FBI centre’s claims are problematic because in Nigeria cybercrime is exclusively cyber fraud (or scam). What constitutes ‘cybercrime’ in most Western nations differs from the particularities of cybercrime in Nigeria. They differ possibly because jurisdictional cultures and nuances apply online as they do offline.</p>\n<h2>Crime primarily driven by economic benefit</h2>\n<p>Money is undoubtedly a primary motivation for online fraud. The primary benefit of a Nigerian swindler is financial. That the problem is propelled by monetary pursuits is well illustrated in the examination of 150 scam letters by professor Afe Adogame of Princeton University.</p>\n<p>Corruption among some government officers and some high profiled politicians also plays a role. Corrupt practices promote cyber criminal activities.</p>\n<p>Another contributory factor is the link between e-waste and online fraud. E-waste refers to discarded electronic appliances such as mobile phones and computers. The dumping of e-waste from countries such the UK and the USA is common in Nigeria and Ghana and there’s a strong correlation between dumping and the physical locations of online fraud victims.</p>\n<h2>The statistics are selective</h2>\n<p>Why is Nigeria ranked the third worst nation for cybercrime perpetrators?</p>\n<p>The FBI-run Internet Crime Complaint Centre was established in May 2000 to limit economic losses through internet crime. It acts primarily by reviewing victims’ complaints. These number about 300,000 a year.</p>\n<p>The centre’s data looks robust because they are drawn directly from victims. But this is deceptive. Of particular concern is the fact that complaints are exclusively framed by victims. This highlights the centre’s over-reliance on participants’ honesty and accuracy.</p>\n<p>The data’s probity is also undermined by the fact that only a small percentage of people voluntarily report themselves as victims of cybercrime. Even the FBI has previously noted that globally less than 10% of people report themselves as victims of cybercrime.</p>\n<p>Apart from cybercrime being under-reported, the vast bulk of cybercrime goes undetected. For example, people who see themselves as victims of law enforcement are unlikely to flag their predicament to the FBI.</p>\n<p>Finally, it’s impossible to tell the extent to which the entire process is shaped by the media and political discourses which tend to amplify the moral panic about Nigerian 419 fraud.</p>\n<p>Based on these underlining factors it’s reasonable to argue that the cybercrime league table is a simplified, limited and an incomplete representation. The claim that Nigeria is ranked third globally is therefore questionable.</p>\n<h2>Beyond the league tables</h2>\n<p>Over 90% of crimes reported to the complaints centre between 2006 and 2010 were primarily about cyber-fraud. Under this specific category Nigeria was found to be the third most cited nation. But what if categories such as cyber espionage and cyber bullying were covered? Would the outcome be different?</p>\n<p>A different approach might be useful. One such approach is the Tripartite Cybercrime Framework which I recently proposed. This framework helps to simplify league table claims into a nuanced umbrella which includes categories such as, for example, socio-economic cybercrime and geopolitical cybercrime.</p>\n<p>If the complaints centre’s reports were viewed through this lens, the results could be interpreted differently. This would, for example, lead to Nigeria being ranked third in the socio-economic category. And naturally in the geopolitical category Nigeria would be ranked much lower. It would also have positive impacts on efforts of law enforcement agencies in Nigeria such as the Economic and Financial Crime Commission EFCC in controlling the activities of cyber criminals.</p>\n<p>It’s of utmost importance for the term “cybercrime” to be revisited and re-defined because it has huge consequences. It has, for example, influenced the framing of most scholarly endeavours about Nigeria which echo the sense of ‘moral panic’ over the ‘419’ phenomenon. It also affects how Nigeria is portrayed in the western media and how it’s viewed in the world.</p>\n<p>Given that repeating discourses normalise their claim, the problem is deep.</p>\n<p><a href=\"https://theconversation.com/profiles/suleman-ibrahim-319689\" target=\"_blank\">Suleman Ibrahim</a>, PhD researcher, Information Security Group, <em><a href=\"http://theconversation.com/institutions/royal-holloway-795\" target=\"_blank\">Royal Holloway</a></em></p>\n<p>This article was originally published on <a href=\"http://theconversation.com\" target=\"_blank\">The Conversation</a>. Read the <a href=\"https://theconversation.com/the-view-that-419-makes-nigeria-a-global-cybercrime-player-is-misplaced-73791\" target=\"_blank\">original article</a>.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The contemptuous label of “cyber-criminals” is the figurative sword with which the Nigerian image is generally being hacked and left for dead. According to Professor Biko Agozino of Virginia Tech university, “there is a long standing demonisation of Nigeria as being full of criminals.” This unfortunate generalisation, especially in the media, has a far-reaching negative&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/view-419-makes-nigeria-global-cybercrime-player-misplaced/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 16114,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      1046
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16112"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16112"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16112/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16114"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16112"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16112"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16114,
+          "date": "2017-03-14T09:57:06",
+          "slug": "image-20170306-20733-1lf0tgj",
+          "type": "attachment",
+          "link": "http://263chat.com/view-419-makes-nigeria-global-cybercrime-player-misplaced/image-20170306-20733-1lf0tgj/",
+          "title": {
+            "rendered": "‘419’ makes Nigeria 263Chat www.263chat.com"
+          },
+          "author": 2,
+          "caption": {
+            "rendered": "<p>‘419’ makes Nigeria 263Chat www.263chat.com &#8211; http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj.jpg</p>\n"
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 926,
+            "height": 618,
+            "file": "2017/03/image-20170306-20733-1lf0tgj.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "image-20170306-20733-1lf0tgj-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-150x150.jpg"
+              },
+              "medium": {
+                "file": "image-20170306-20733-1lf0tgj-300x200.jpg",
+                "width": 300,
+                "height": 200,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-300x200.jpg"
+              },
+              "medium_large": {
+                "file": "image-20170306-20733-1lf0tgj-768x513.jpg",
+                "width": 768,
+                "height": 513,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-768x513.jpg"
+              },
+              "newedge-full": {
+                "file": "image-20170306-20733-1lf0tgj-848x536.jpg",
+                "width": 848,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-848x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "image-20170306-20733-1lf0tgj-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "image-20170306-20733-1lf0tgj-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj-263x253.jpg"
+              },
+              "full": {
+                "file": "image-20170306-20733-1lf0tgj.jpg",
+                "width": 926,
+                "height": 618,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/image-20170306-20733-1lf0tgj.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16114"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/2"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16114"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 1046,
+            "link": "http://263chat.com/category/africa/",
+            "name": "Africa",
+            "slug": "africa",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/1046"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=1046"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        []
+      ]
+    }
+  },
+  {
+    "id": 16105,
+    "date": "2017-03-13T19:37:16",
+    "date_gmt": "2017-03-13T17:37:16",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16105"
+    },
+    "modified": "2017-03-13T19:37:16",
+    "modified_gmt": "2017-03-13T17:37:16",
+    "slug": "knew-surprise-tp-mazembe-caps-united",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/knew-surprise-tp-mazembe-caps-united/",
+    "title": {
+      "rendered": "We Knew We Would Surprise TP Mazembe: Caps United"
+    },
+    "content": {
+      "rendered": "<p>After a 10 year absence from continental football, Caps United have returned with a bang and if their performance against five time winners TP Mazembe in Lubumbashi on Saturday is anything, the Green Machine could be up to some surprises for Zimbabwe and Africa.</p>\n<p><strong>By Munashe Chokodza</strong></p>\n<p>Makepekepe&#8217;s ability to hold a giant of African football on their own soil shocked even its own fans who trooped to the airport to welcome back the boys from a hugely successful hunt in DRC.</p>\n<p>“We had a great game, credit goes to the boys because the result was good as the performance and this result is for the fans.</p>\n<p>“We will use the away goal to our advantage and the goal it’s for the boys and will make use of that goal on Sunday at the National Sports Stadium,” said Chitembwe after landing at Harare International Airport on Sunday evening.</p>\n<p>Caps United President Farai Jere was a happy man but was quick to say that their target is to reach the group stages of the tournament.</p>\n<p>“We told everyone that we were going to surprise TP Mazembe and no-one believed us until today,&#8221; said Jere.</p>\n<p>While TP Mazembe continued with unbeaten record at home to 34 games, they will come to Zimbabwe to play a team that already has an advantage with their crucial away goal.</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>After a 10 year absence from continental football, Caps United have returned with a bang and if their performance against five time winners TP Mazembe in Lubumbashi on Saturday is anything, the Green Machine could be up to some surprises for Zimbabwe and Africa. By Munashe Chokodza Makepekepe&#8217;s ability to hold a giant of African&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/knew-surprise-tp-mazembe-caps-united/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 16109,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      912
+    ],
+    "tags": [
+      1528,
+      2255,
+      2244
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16105"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16105"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16105/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16109"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16105"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16105"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16109,
+          "date": "2017-03-13T19:35:55",
+          "slug": "17202679_766805386811044_5318909254878945145_n",
+          "type": "attachment",
+          "link": "http://263chat.com/knew-surprise-tp-mazembe-caps-united/17202679_766805386811044_5318909254878945145_n/",
+          "title": {
+            "rendered": "17202679_766805386811044_5318909254878945145_n"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 720,
+            "height": 540,
+            "file": "2017/03/17202679_766805386811044_5318909254878945145_n.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "17202679_766805386811044_5318909254878945145_n-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n-150x150.jpg"
+              },
+              "medium": {
+                "file": "17202679_766805386811044_5318909254878945145_n-300x225.jpg",
+                "width": 300,
+                "height": 225,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n-300x225.jpg"
+              },
+              "newedge-full": {
+                "file": "17202679_766805386811044_5318909254878945145_n-720x536.jpg",
+                "width": 720,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n-720x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "17202679_766805386811044_5318909254878945145_n-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "17202679_766805386811044_5318909254878945145_n-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n-263x253.jpg"
+              },
+              "full": {
+                "file": "17202679_766805386811044_5318909254878945145_n.jpg",
+                "width": 720,
+                "height": 540,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/17202679_766805386811044_5318909254878945145_n.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16109"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16109"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 912,
+            "link": "http://263chat.com/category/sports/",
+            "name": "Sports",
+            "slug": "sports",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/912"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=912"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 1528,
+            "link": "http://263chat.com/tag/caps-united/",
+            "name": "Caps United",
+            "slug": "caps-united",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1528"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1528"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2255,
+            "link": "http://263chat.com/tag/farai-jere/",
+            "name": "Farai Jere",
+            "slug": "farai-jere",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2255"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2255"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2244,
+            "link": "http://263chat.com/tag/tp-mazembe/",
+            "name": "TP Mazembe",
+            "slug": "tp-mazembe",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2244"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2244"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16102,
+    "date": "2017-03-13T19:03:50",
+    "date_gmt": "2017-03-13T17:03:50",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16102"
+    },
+    "modified": "2017-03-13T19:03:50",
+    "modified_gmt": "2017-03-13T17:03:50",
+    "slug": "lack-access-clean-water-impediment-women-children",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/lack-access-clean-water-impediment-women-children/",
+    "title": {
+      "rendered": "Lack Of Access To Clean Water An Impediment To Women and Children"
+    },
+    "content": {
+      "rendered": "<p>Access to clean and safe water remains a critical problem for people living in rural areas with women and children the most affected, UNICEF has revealed.</p>\n<p>&nbsp;</p>\n<p>Speaking at the handover of a £12 million contribution towards the Rural WASH Program, recently in Mashonaland Central, UNICEF Deputy Representative Dr Jane Muita said access to safe water and adequate sanitation is a critical realization of fundamental human rights such as the right to life and dignity as well as the right to health and well-being.</p>\n<p>She said lack of water, sanitation and hygiene remains a major concern to UNICEF as it has a great bearing on the health and well-being of women and children especially in the rural area.</p>\n<p>“A stronger imbalance exists in rural areas where women and girls do the great majority of manual and management work for water and sanitation services at the household level. They travel great distances to wells and boreholes, wait in long queues for their turn to collect water and they lug heavy buckets several miles back to their villages.</p>\n<p>“These activities can deprive women of time to engage in economic activities to enhance their livelihoods and compromise the girl child’s ability to reach her full potential,” said Dr Muita.</p>\n<p>She further stated that inadequate or lack of appropriate water and sanitation facilities in schools also have a negative impact on  the girl child’s ability to access education as many girls miss days at school every month due to lack of privacy and dignity.</p>\n<p>“Many girls get low results due to this and their pass rate is reduced. Similarly, inaccessible water and sanitation facilities are major contributing factors for school dropouts among children living with disabilities whose needs are so often overlooked,” she said.</p>\n<p>The first phase of the Rural WASH program saw the installation of 1620 boreholes, with 1600 schools now having gender sensitive sanitation facilities as well as 2500 villages being declared Open Defecation Free areas.</p>\n<p>The second phase of the program will further strengthen the thematic areas of rehabilitation and construction of WASH infrastructure; demand led sanitation and hygiene promotion as well as public and private partnership for operation and maintenance through greater involvement by stakeholders.</p>\n<p>The extension will also provide improved access to water and sanitation to a further 1,4 million people in 11 districts , improving the lives of some of the poorest people in the country thereby mitigating the spread of diseases such as cholera and typhoid which are catastrophic.</p>\n<p>In his acceptance speech, National Action Committee Chairperson, Prince Mupazviriho said the £12 million grant will target 12 water stressed districts of Mudzi, Mutoko, Buhera, Makoni, Rushinga, Mt Darwin, Mbire and Muzarabani.</p>\n<p>He added that the program is in line with the ZimAsset economic blueprint with one of its major thrusts being to ensure a growing economy and empowered communities.</p>\n<p>“The grant will greatly assist us as we thrive to achieve the SDGs (Sustainable Development Goals) targets that require us to ensure safe water and dignified sanitation for all,” said Mupazviriho.</p>\n<p>According to UNICEF, at least 32% of people in rural Zimbabwe do not have access to improved sources of water with the majority being woman and children under 5 years.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Access to clean and safe water remains a critical problem for people living in rural areas with women and children the most affected, UNICEF has revealed. &nbsp; Speaking at the handover of a £12 million contribution towards the Rural WASH Program, recently in Mashonaland Central, UNICEF Deputy Representative Dr Jane Muita said access to safe&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/lack-access-clean-water-impediment-women-children/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2038,
+    "featured_media": 15967,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      902
+    ],
+    "tags": [
+      2254,
+      2253,
+      982,
+      1280,
+      2251,
+      2252,
+      1774
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16102"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2038"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16102"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16102/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/15967"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16102"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16102"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 15967,
+          "date": "2017-03-07T17:53:48",
+          "slug": "chra-pic",
+          "type": "attachment",
+          "link": "http://263chat.com/poor-service-delivery-impacting-negatively-women/chra-pic/",
+          "title": {
+            "rendered": "CHRA pic 263Chat www.263Chat.com"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": "<p>CHRA pic 263Chat www.263Chat.com &#8211; http://263chat.com/wp-content/uploads/2017/03/CHRA-pic.jpg</p>\n"
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 630,
+            "height": 420,
+            "file": "2017/03/CHRA-pic.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "CHRA-pic-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic-150x150.jpg"
+              },
+              "medium": {
+                "file": "CHRA-pic-300x200.jpg",
+                "width": 300,
+                "height": 200,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic-300x200.jpg"
+              },
+              "newedge-thumb": {
+                "file": "CHRA-pic-555x420.jpg",
+                "width": 555,
+                "height": 420,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic-555x420.jpg"
+              },
+              "newedge-small": {
+                "file": "CHRA-pic-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic-263x253.jpg"
+              },
+              "full": {
+                "file": "CHRA-pic.jpg",
+                "width": 630,
+                "height": 420,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/CHRA-pic.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/15967"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=15967"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 902,
+            "link": "http://263chat.com/category/news/",
+            "name": "News",
+            "slug": "news",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/902"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=902"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 2254,
+            "link": "http://263chat.com/tag/dfid/",
+            "name": "DFID",
+            "slug": "dfid",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2254"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2254"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2253,
+            "link": "http://263chat.com/tag/dr-prince-mupazviriho/",
+            "name": "Dr Prince Mupazviriho",
+            "slug": "dr-prince-mupazviriho",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2253"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2253"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 982,
+            "link": "http://263chat.com/tag/sustainable-development-goals/",
+            "name": "Sustainable Development Goals",
+            "slug": "sustainable-development-goals",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/982"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=982"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1280,
+            "link": "http://263chat.com/tag/unicef/",
+            "name": "UNICEF",
+            "slug": "unicef",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1280"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1280"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2251,
+            "link": "http://263chat.com/tag/wash/",
+            "name": "WASH",
+            "slug": "wash",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2251"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2251"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2252,
+            "link": "http://263chat.com/tag/water-and-sanitation-health/",
+            "name": "Water and Sanitation Health",
+            "slug": "water-and-sanitation-health",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2252"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2252"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1774,
+            "link": "http://263chat.com/tag/zimasset/",
+            "name": "ZIMASSET",
+            "slug": "zimasset",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1774"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1774"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16101,
+    "date": "2017-03-13T18:27:11",
+    "date_gmt": "2017-03-13T16:27:11",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16101"
+    },
+    "modified": "2017-03-13T18:39:17",
+    "modified_gmt": "2017-03-13T16:39:17",
+    "slug": "teen-pregnancies-national-problem-parirenyatwa",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/teen-pregnancies-national-problem-parirenyatwa/",
+    "title": {
+      "rendered": "Teen Pregnancies A National Problem: Parirenyatwa"
+    },
+    "content": {
+      "rendered": "<p>Teenage pregnancies remain a huge problem in Zimbabwe with rural and apostolic sect girls the most affected, according to Minister of Health and Child Care, Dr David Parirenyatwa.</p>\n<p>Officiating at the launch of the National Teenage Fertility Study which coincided with the launch of National Adolescent Sexual Reproductive Health (ASRH) Strategy II (2016-2020), Minister of Health and Child Care, Dr David Parirenyatwa said teenage pregnancy has become a national problem which needs a collective effort to be tackled.</p>\n<p>“We launched this study with the aim of understanding why adolescent fertility was increasing despite the government efforts to reduce it.</p>\n<p>“The findings were however not pleasing as we found out those adolescents with no comprehensive knowledge on pregnancy and those who were supporting adolescents getting pregnant was at a higher risk of pregnancy.</p>\n<p>“This is largely due to lack of harmonization of policies at national level as the age of marriage is years while the age of consent is 16. The policies are not effective due to lack of coordination of ministries, we need to address the issue at national level,” said Dr Parirenyatwa.</p>\n<p>According to the National Teenage Fertility Study, early sexual debut, sexual abuse and child marriage were found to significantly increase the risk of unintended pregnancies among teenage girls with 13% of girls aged 10-19 years reportedly having at least one sexual encounter while 54% of girls aged between 10-14 years who had a sexual encounter experienced rape or forced sexual intercourse.</p>\n<p>Almost a fifth (19%) of pregnancies among female adolescents aged 15-19 years was associated with early marriage.</p>\n<p>According to the study, Zimbabwe has an extremely young population with a third between the ages of 10-24 years.</p>\n<p>12% of the population is comprised of adolescent girls aged 10-19 years who face a myriad of challenges related to their development and sexual reproductive health.</p>\n<p>One quarter of these adolescent girls are married by the age of 18 years, with 24% falling pregnant. The rural–urban differential is striking with the fertility rate being twice as high among girls resident in the rural areas.</p>\n<p>Speaking at same event, UNFPA country representative, Cheikh Tidiane Cisse said teenage pregnancy severely curtails girls and young women’s opportunities and hinders their ability to reach their full potential.</p>\n<p>“A young adolescent girl can be an asset for her country if she is not married off during her childhood; not forced to leave school or exposed to unplanned and early pregnancies that put her at high risk of illness, maternal morbidities and even death,” Cisse said.</p>\n<p>The study’s findings, launched at St. Albert’s Mission Hospital in Mashonaland Central revealed that 9% of female adolescents aged 10-19 years had ever been pregnant.</p>\n<p>Factors significantly associated with adolescent pregnancy were a lack of comprehensive knowledge and poor attitudes towards sexual reproductive health among teenage girls; only 4% of those aged 10-19 years had comprehensive knowledge on pregnancy and 77% believed that “contraceptive (condoms and pills) use is a sign of promiscuity”, highlighting the need for increased Comprehensive Sexuality Education (CSE) among this extremely vulnerable demographic.</p>\n<p>The ASRH strategy also encourages multi-sectoral evidence based interventions with close linkages and integration, emphasizing the essential role of education, protection and sustainable livelihoods for young people and the need for greater investment in young people as a key driver in reaping the demographic dividend in the future.</p>\n<p>Both the national ASRH teenage fertility study and the development of the ASRH strategy were supported by UNFPA under the Integrated Support Programme (ISP), supported by the governments of Britain, Ireland and Sweden.</p>\n<p>The strategy will be implemented under the Health Development Fund, supported by the ISP donors and the European Union.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Teenage pregnancies remain a huge problem in Zimbabwe with rural and apostolic sect girls the most affected, according to Minister of Health and Child Care, Dr David Parirenyatwa. Officiating at the launch of the National Teenage Fertility Study which coincided with the launch of National Adolescent Sexual Reproductive Health (ASRH) Strategy II (2016-2020), Minister of&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/teen-pregnancies-national-problem-parirenyatwa/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2038,
+    "featured_media": 16106,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      902
+    ],
+    "tags": [
+      2247,
+      2249,
+      1124,
+      2250,
+      1414,
+      2248
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16101"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2038"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16101"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16101/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16106"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16101"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16101"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16106,
+          "date": "2017-03-13T18:24:36",
+          "slug": "img_1605",
+          "type": "attachment",
+          "link": "http://263chat.com/teen-pregnancies-national-problem-parirenyatwa/img_1605/",
+          "title": {
+            "rendered": "263Chat Teenage Pregnancies"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1284,
+            "height": 856,
+            "file": "2017/03/IMG_1605-e1489422344478.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "IMG_1605-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-150x150.jpg"
+              },
+              "medium": {
+                "file": "IMG_1605-300x200.jpg",
+                "width": 300,
+                "height": 200,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-300x200.jpg"
+              },
+              "medium_large": {
+                "file": "IMG_1605-768x512.jpg",
+                "width": 768,
+                "height": 512,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-768x512.jpg"
+              },
+              "large": {
+                "file": "IMG_1605-1024x683.jpg",
+                "width": 1024,
+                "height": 683,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-1024x683.jpg"
+              },
+              "newedge-full": {
+                "file": "IMG_1605-848x536.jpg",
+                "width": 848,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-848x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "IMG_1605-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "IMG_1605-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-263x253.jpg"
+              },
+              "full": {
+                "file": "IMG_1605-e1489422344478.jpg",
+                "width": 1284,
+                "height": 856,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-e1489422344478.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "7.1",
+              "credit": "",
+              "camera": "Canon EOS 1200D",
+              "caption": "",
+              "created_timestamp": "1489150497",
+              "copyright": "",
+              "focal_length": "18",
+              "iso": "100",
+              "shutter_speed": "0.008",
+              "title": "",
+              "orientation": "1",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/IMG_1605-e1489422344478.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16106"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16106"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 902,
+            "link": "http://263chat.com/category/news/",
+            "name": "News",
+            "slug": "news",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/902"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=902"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 2247,
+            "link": "http://263chat.com/tag/asrh/",
+            "name": "ASRH",
+            "slug": "asrh",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2247"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2247"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2249,
+            "link": "http://263chat.com/tag/cheikh-tidiane-cisse/",
+            "name": "Cheikh Tidiane Cisse",
+            "slug": "cheikh-tidiane-cisse",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2249"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2249"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1124,
+            "link": "http://263chat.com/tag/dr-david-parirenyatwa/",
+            "name": "Dr David Parirenyatwa",
+            "slug": "dr-david-parirenyatwa",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1124"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1124"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2250,
+            "link": "http://263chat.com/tag/national-teenage-fertility-study/",
+            "name": "National Teenage Fertility Study",
+            "slug": "national-teenage-fertility-study",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2250"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2250"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1414,
+            "link": "http://263chat.com/tag/unfpa/",
+            "name": "UNFPA",
+            "slug": "unfpa",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1414"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1414"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2248,
+            "link": "http://263chat.com/tag/unfpa-country-representative/",
+            "name": "UNFPA country representative",
+            "slug": "unfpa-country-representative",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2248"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2248"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16099,
+    "date": "2017-03-13T16:14:35",
+    "date_gmt": "2017-03-13T14:14:35",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16099"
+    },
+    "modified": "2017-03-13T16:15:38",
+    "modified_gmt": "2017-03-13T14:15:38",
+    "slug": "grappling-developing-jurisprudence-zimbabwe",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/grappling-developing-jurisprudence-zimbabwe/",
+    "title": {
+      "rendered": "Grappling With The Developing Jurisprudence in Zimbabwe"
+    },
+    "content": {
+      "rendered": "<p>&nbsp;</p>\n<p>The native is so angry that the government is about to amend the constitution just three years after the effective date of the country’s home-made book of commandments.</p>\n<p><strong>By Farai Gwenhure</strong></p>\n<p>Folks are not only annoyed by the mere fact of a mooted amendment but by the agenda which is highly Lacosteic (forgive the new word) in nature, intricately linked with succession politics in ZANU PF but more importantly the contemptuous attempt to add more constitutional powers to an already existing imperial president dealing a sad blow to the idea of checks and balances.</p>\n<p>The first amendment is just but a number of steps backwards where ZANU intends to remove the idea of public nominations and hearings by the Judiciary Service Commission in the appointment of the Chief Justice their deputy and the Judge President.</p>\n<p>A simple analysis will reveal to an average Zimbabwean that the dispute of who takes over between Lacoste and G40 will end up spilling into the courts of law one way or the other, the person occupying the office of the top judge of the country will therefore be key in determining the way forward.</p>\n<p>There is a high possibility that when the ninety days lapse when the person who will be acting as head of state lapse at least two separate ZANU PF processes to nominate a substantive replacement of Mugabe will take place resulting in two different names being submitted to the speaker of parliament who will have no choice but to refer the matter to a competent court of law to determine which one is legitimate.</p>\n<p>The major worry of those in the legal fraternity and the democratic contingent is not who will replace Mugabe from ZANUPF but the probability of having an illiterate, lazy chief justice with no competence to deal with the hard and fast constitutional applications considering the young constitution is demanding a fast development of the jurisprudence to catch up with especially progressive provisions of the new constitution in a country where the state is doing a poor job to align the laws.</p>\n<p>The citizen is also trying to play catch up if not grappling with the changes happening in the Zimbabwean law.</p>\n<p>The local scribe has for many times referred to a landmark case or a land mark ruling in the past few years.</p>\n<p>The Con Court has heard various matters making “Revolutionary rulings”, sometimes reserving judgements; equally the High Court has also made serious constitutional determinations owing to the powers conferred to that court to hear constitutional matters.</p>\n<p>At the centre of the landmark rulings is fiery Harare Lawyer Tendai Biti of Tendai Biti Law who has so far won several Constitutional cases before both the Con Court and High Court.</p>\n<p>“We are not in practice for the sake of being in it we are there to use the law as a tool for social change that’s what we do at HMB Chambers,’ Biti says.</p>\n<p>Among the cases Biti won is the Mudzuri case which invalidated section 21 of the marriages act effectively making 18 the minimum age of marriage, the Obadiah Makoni case which changed the interpretation of a life sentence making it imperative to establish a parole board to review correctional conditions of inmates, the high court case by Michael Munyika and Chrispen Tobaiwa before Justice Tsanga case which invalidated section 70 of the Police Act making police officers subject to the same conditions of lawsuits as ordinary citizens and recently the case which resulted in the abolishing of corporal punishment a bold ruling by Justice Mangota.</p>\n<p>The two high court constitutional rulings are however subject to confirmation by the Con Court.</p>\n<p>The citizen therefore grapples with how to cope with the idea of contradictions in the idea of minimum marriage age being set at 18 when sexual consent remains at 16.A documentary titled A little later produced by the author last year tried to address the issue.</p>\n<p>Several marital unions involving children continue to take place with clear signs of parental involvement and in some instances the church is also involved specifically the apostolic sects.</p>\n<p>Now comes the idea of corporal punishment being outlawed, many folks think the state must not be involved in how they discipline their own kids.</p>\n<p>Parents sometimes take out their anger on kids and instead of canning a kid to instill discipline they end up doing so just to feel better and more importantly there is no corporal standard on how many times you whip a child or pinch them for them to be corrected.</p>\n<p>Again folks relate the issue of corporal punishment to scripture where it is mentioned that a loving parent will guide them through the whip.</p>\n<p>On top of that parents are also complaining that there are no adequate disciplinary alternatives outside the beatings, movies provide many options folks might need to start befriending the HD version of parenting.</p>\n<p>A quick chat with Biti will inform you that his application brought evidence before the jury to the effect that both teachers and parents had previously killed children by assaulting them in the name of discipline.</p>\n<p>At a personal level Biti also says he lost a boyhood friend who was beaten to death by his step mother. In fact today’s herald screams “Man whips neighbors son to death.”</p>\n<p>Signs being shown are that both the state and NGOs are not doing enough in popularizing the judgements as well as initiating discussions around the developments for society to evolve at the same speed with the evolution of the law.</p>\n<p>The Con Court has so far reserved judgement on a case in which fourteen death roll inmates are arguing that their rights have been violated by the state by having them stay on the roll for periods ranging from 5 years to 21 years.</p>\n<p>As remedy they request that their sentences be commuted to prison sentences especially when the state has demonstrated that it has no capacity to execute with no hangman currently occupying that office or be it the gallows.</p>\n<p>The Con Court has also reserved judgement in the Mahiya case which the director of Heal Zimbabwe Trust is seeking an immediate establishment of a complaints board which deals with citizens complains against members of the security services.</p>\n<p>Another case which Biti is involved is one in which Sipepa Nkomo is seeking an order compelling the state to implement devolution of power as dictated by the new constitution.</p>\n<p>Biti is promising to bring a couple more cases this year including one on the right to housing in which he is representing a group of people evicted by Murambatsvina who went to camp at a farm and are now at the risk of being evicted by land barons colluding with local authorities and the state.</p>\n<p>He also promises to bring a case for compulsory provision of health care on cancer patients, another on the right to education and more importantly in this election season a big case on Diaspora vote.</p>\n<p>Outside the Biti factor litigants have won cases like the invalidation of section 121(3) of the Criminal Procedure and Evidence Act which allowed the state to further detain an accused person who granted bail. In the Shelton Kamurendo case through attorneys Kadzere, Hungwe and Mandevere the Con Court ruled</p>\n<p>“The application in this matter succeeds. It is declared that section 121(3) of the Criminal Procedure and Evidence Act Chapter 9:07 is unconstitutional in that it is ultra vires sections 13(1) and section 18(1) of the former constitution.”</p>\n<p>And in another important case brought by MISA Zimbabwe represented by Adv Magwaliba, the Con Court outlawed criminal defamation in a positive move for press freedom in the country.</p>\n<p>Instead of practicing constitutionalism through litigation the state must be ceased with doing their work aligning the laws to the constitution, legislating to close all the grey areas of the law in the spirit and letter of the constitution rather than try to take away progressive clauses.</p>\n<p><strong>Gwenhure Farai is a journalist who loves his country, he writes in his personal capacity. This article is a summary of a chapter in a book titled “With all due respect my lord” which is a lay man’s view of the justice delivery system in Zimbabwe.</strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; The native is so angry that the government is about to amend the constitution just three years after the effective date of the country’s home-made book of commandments. By Farai Gwenhure Folks are not only annoyed by the mere fact of a mooted amendment but by the agenda which is highly Lacosteic (forgive the&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/grappling-developing-jurisprudence-zimbabwe/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2128,
+    "featured_media": 12698,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      4,
+      1113
+    ],
+    "tags": [
+      1944,
+      1409,
+      2246,
+      1067,
+      18
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16099"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2128"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16099"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16099/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/12698"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16099"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16099"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16099"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 12698,
+          "date": "2016-10-06T13:21:57",
+          "slug": "img_0088-3",
+          "type": "attachment",
+          "link": "http://263chat.com/official-opening-of-the-fourth-session-of-eighth-parliament/img_0088-3/",
+          "title": {
+            "rendered": ""
+          },
+          "author": 6,
+          "caption": {
+            "rendered": "<p>Vice President, Emmerson Mnangagwa</p>\n"
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 667,
+            "file": "2016/10/IMG_0088.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "IMG_0088-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-150x150.jpg"
+              },
+              "medium": {
+                "file": "IMG_0088-300x200.jpg",
+                "width": 300,
+                "height": 200,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-300x200.jpg"
+              },
+              "medium_large": {
+                "file": "IMG_0088-768x512.jpg",
+                "width": 768,
+                "height": 512,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-768x512.jpg"
+              },
+              "newedge-full": {
+                "file": "IMG_0088-848x536.jpg",
+                "width": 848,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-848x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "IMG_0088-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "IMG_0088-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088-263x253.jpg"
+              },
+              "full": {
+                "file": "IMG_0088.jpg",
+                "width": 1000,
+                "height": 667,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "5.6",
+              "credit": "",
+              "camera": "Canon EOS 600D",
+              "caption": "",
+              "created_timestamp": "1475754045",
+              "copyright": "",
+              "focal_length": "300",
+              "iso": "1600",
+              "shutter_speed": "0.0005",
+              "title": "",
+              "orientation": "1",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2016/10/IMG_0088.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/12698"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=12698"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "link": "http://263chat.com/category/guest-blog/",
+            "name": "Guest Blog",
+            "slug": "guest-blog",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/4"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=4"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1113,
+            "link": "http://263chat.com/category/guest-columnist/",
+            "name": "Guest columnist",
+            "slug": "guest-columnist",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/1113"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=1113"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 1944,
+            "link": "http://263chat.com/tag/constitutional-court/",
+            "name": "Constitutional Court",
+            "slug": "constitutional-court",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1944"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1944"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1409,
+            "link": "http://263chat.com/tag/farai-gwenhure/",
+            "name": "Farai Gwenhure",
+            "slug": "farai-gwenhure",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1409"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1409"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2246,
+            "link": "http://263chat.com/tag/misa-zimbabwe/",
+            "name": "MISA Zimbabwe",
+            "slug": "misa-zimbabwe",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2246"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2246"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1067,
+            "link": "http://263chat.com/tag/tendai-biti/",
+            "name": "Tendai Biti",
+            "slug": "tendai-biti",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1067"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1067"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 18,
+            "link": "http://263chat.com/tag/zimbabwe/",
+            "name": "Zimbabwe",
+            "slug": "zimbabwe",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/18"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=18"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16098,
+    "date": "2017-03-13T14:15:56",
+    "date_gmt": "2017-03-13T12:15:56",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16098"
+    },
+    "modified": "2017-03-13T14:15:56",
+    "modified_gmt": "2017-03-13T12:15:56",
+    "slug": "persecution-citizens-insulting-national-flag-continues",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/persecution-citizens-insulting-national-flag-continues/",
+    "title": {
+      "rendered": "Persecution Of Citizens For Insulting The National Flag Continues"
+    },
+    "content": {
+      "rendered": "<p>A 25 year-old Zimbabwean man is scheduled to stand trial on Monday 13 March 2017 after he was arrested last week and charged with insulting and disrespecting the country’s national flag.</p>\n<p>Zimbabwe Republic Police (ZRP) officers in Kariba on Wednesday 08 March 2017 arrested 25 year-old Courage Mushunje and charged him with contravening Section 6 of the Flag of Zimbabwe Act Chapter <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1741545264\"><span class=\"aQJ\">10:10</span></span> after he allegedly insulted and disrespected the flag by keeping on walking when the national flag was being hoisted down at Kariba Border Post.</p>\n<p>Mushunje was arrested as he was processing the “clearing” of his two vehicles at Kariba Border Post, which he had brought from Tanzania.</p>\n<p>Prosecutors claimed that Mushunje failed to respect the national flag as he kept moving while the national flag was being hoisted down by<br />\nLiberty Kahiya, a security guard employed by Sencire Security and despite being given signs to stop and stand at attention as other citizens were doing.</p>\n<p>When confronted by an unidentified Central Intelligence Organisation (CIO) operative on why he was disrespecting the national flag,<br />\nMushunje reportedly told the state security agent not to bother him as the national flag doesn’t belong to him.</p>\n<p>Mushunje’s response prompted the complainants who include Kahiya to report the matter at a police station in Kariba resulting in the<br />\narrest of the unemployed Zvishavane resident whom they accused of acting unlawfully.</p>\n<p>The 25 year-old Mushunje was granted free bail by Kariba Magistrate Toendepi Zhou after his lawyer Unite Saizi of Saizi Law Chambers, who is a member of Zimbabwe Lawyers for Human Rights, sought his release from custody.</p>\n<p>Magistrate Zhou also ordered the State to furnish the court with a report after investigating some complaints of ill-treatment raised against some ZRP officers by Mushunje.</p>\n<p>Mushunje complained that he was harassed, assaulted and kidnapped by some CIO operatives at Kariba Border Post on Tuesday 07 March 2017 and dumped at a nearby bush before he was subsequently arrested on Wednesday 08 March 2017 on allegations of disrespecting the national flag.</p>\n<p>The State has lined up two witnesses, Kahiya and Edmore Chiduku, a ZRP officer to testify against Mushunje during trial.</p>\n<p>Mushunje becomes the third person to be rescued by ZLHR after being arrested and charged with insulting and disrespecting the national flag after Remnant Pentecostal Church leader Pastor Phillip Mugadza and Pastor Evan Mawarire of the His Generation Church, who were arrested on Friday 18 November 2016 and on Wednesday 01 February 2017.</p>\n<p>Prosecutors charged that the two clergymen insulted, showed disrespect and brought the flag into disrepute after they draped themselves with the country’s national flag while protesting against President Robert Mugabe’s government, without first seeking permission from the<br />\ncountry’s authorities.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A 25 year-old Zimbabwean man is scheduled to stand trial on Monday 13 March 2017 after he was arrested last week and charged with insulting and disrespecting the country’s national flag. Zimbabwe Republic Police (ZRP) officers in Kariba on Wednesday 08 March 2017 arrested 25 year-old Courage Mushunje and charged him with contravening Section 6&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/persecution-citizens-insulting-national-flag-continues/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 14971,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      1047
+    ],
+    "tags": [
+      2245,
+      1602,
+      1837,
+      1233
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16098"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16098"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16098/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/14971"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16098"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16098"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16098"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 14971,
+          "date": "2017-02-07T18:31:09",
+          "slug": "what-pastor-evan-mawarires-thisflag-campaign",
+          "type": "attachment",
+          "link": "http://263chat.com/high-court-postpones-mawarires-freedom-bid-wednesday/what-pastor-evan-mawarires-thisflag-campaign/",
+          "title": {
+            "rendered": "what-pastor-evan-mawarires-thisflag-campaign"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1600,
+            "height": 1211,
+            "file": "2017/02/what-pastor-evan-mawarires-thisflag-campaign.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-150x150.jpg"
+              },
+              "medium": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-300x227.jpg",
+                "width": 300,
+                "height": 227,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-300x227.jpg"
+              },
+              "medium_large": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-768x581.jpg",
+                "width": 768,
+                "height": 581,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-768x581.jpg"
+              },
+              "large": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-1024x775.jpg",
+                "width": 1024,
+                "height": 775,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-1024x775.jpg"
+              },
+              "newedge-full": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-848x536.jpg",
+                "width": 848,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-848x536.jpg"
+              },
+              "newedge-thumb": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-555x536.jpg",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-555x536.jpg"
+              },
+              "newedge-small": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign-263x253.jpg"
+              },
+              "full": {
+                "file": "what-pastor-evan-mawarires-thisflag-campaign.jpg",
+                "width": 1600,
+                "height": 1211,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/02/what-pastor-evan-mawarires-thisflag-campaign.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/14971"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=14971"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1047,
+            "link": "http://263chat.com/category/courts/",
+            "name": "Courts",
+            "slug": "courts",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/1047"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=1047"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 2245,
+            "link": "http://263chat.com/tag/his-generation-church/",
+            "name": "His Generation Church",
+            "slug": "his-generation-church",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2245"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2245"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1602,
+            "link": "http://263chat.com/tag/pastor-evan-mawarire/",
+            "name": "Pastor Evan Mawarire",
+            "slug": "pastor-evan-mawarire",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1602"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1602"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1837,
+            "link": "http://263chat.com/tag/pastor-phillip-mugadza/",
+            "name": "Pastor Phillip Mugadza",
+            "slug": "pastor-phillip-mugadza",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1837"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1837"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1233,
+            "link": "http://263chat.com/tag/zimbabwe-lawyers-for-human-rights/",
+            "name": "Zimbabwe Lawyers for Human Rights",
+            "slug": "zimbabwe-lawyers-for-human-rights",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1233"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1233"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 16078,
+    "date": "2017-03-13T13:00:50",
+    "date_gmt": "2017-03-13T11:00:50",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16078"
+    },
+    "modified": "2017-03-12T18:19:45",
+    "modified_gmt": "2017-03-12T16:19:45",
+    "slug": "lets-zero-tolerance-political-violence-jestina-mukoko",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/lets-zero-tolerance-political-violence-jestina-mukoko/",
+    "title": {
+      "rendered": "Let&#8217;s have zero tolerance to political violence &#8211; Jestina Mukoko"
+    },
+    "content": {
+      "rendered": "<p><iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/uBdHq_DRRtQ?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 16079,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "video",
+    "meta": [],
+    "categories": [
+      902
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16078"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16078"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16078/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/16079"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16078"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16078"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16078"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 16079,
+          "date": "2017-03-12T17:28:51",
+          "slug": "jestina",
+          "type": "attachment",
+          "link": "http://263chat.com/lets-zero-tolerance-political-violence-jestina-mukoko/jestina/",
+          "title": {
+            "rendered": "Jestina Mukoko 263Chat www.263chat.com"
+          },
+          "author": 2,
+          "caption": {
+            "rendered": "<p>Jestina Mukoko 263Chat www.263chat.com &#8211; http://263chat.com/wp-content/uploads/2017/03/Jestina.jpg</p>\n"
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 864,
+            "height": 482,
+            "file": "2017/03/Jestina.jpg",
+            "sizes": {
+              "thumbnail": {
+                "file": "Jestina-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-150x150.jpg"
+              },
+              "medium": {
+                "file": "Jestina-300x167.jpg",
+                "width": 300,
+                "height": 167,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-300x167.jpg"
+              },
+              "medium_large": {
+                "file": "Jestina-768x428.jpg",
+                "width": 768,
+                "height": 428,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-768x428.jpg"
+              },
+              "newedge-full": {
+                "file": "Jestina-848x482.jpg",
+                "width": 848,
+                "height": 482,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-848x482.jpg"
+              },
+              "newedge-thumb": {
+                "file": "Jestina-555x482.jpg",
+                "width": 555,
+                "height": 482,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-555x482.jpg"
+              },
+              "newedge-small": {
+                "file": "Jestina-263x253.jpg",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina-263x253.jpg"
+              },
+              "full": {
+                "file": "Jestina.jpg",
+                "width": 864,
+                "height": 482,
+                "mime_type": "image/jpeg",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/03/Jestina.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/16079"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/2"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=16079"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 902,
+            "link": "http://263chat.com/category/news/",
+            "name": "News",
+            "slug": "news",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/902"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=902"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        []
+      ]
+    }
+  },
+  {
+    "id": 16094,
+    "date": "2017-03-13T11:10:28",
+    "date_gmt": "2017-03-13T09:10:28",
+    "guid": {
+      "rendered": "http://263chat.com/?p=16094"
+    },
+    "modified": "2017-03-13T11:10:28",
+    "modified_gmt": "2017-03-13T09:10:28",
+    "slug": "informal-economy-tackles-middle-class-trap",
+    "status": "publish",
+    "type": "post",
+    "link": "http://263chat.com/informal-economy-tackles-middle-class-trap/",
+    "title": {
+      "rendered": "How The Informal Economy Tackles The Middle Class Trap"
+    },
+    "content": {
+      "rendered": "<p>In African countries where agriculture is a major socio-economic activity, policy makers and development agencies seem determined to move economic activities from agriculture to manufacturing. The whole discourse around value addition suggests a strong desire to get rid of informal marketing of agricultural commodities and convert all commodities into manufactured products which can be bought and sold in supermarkets or exported as finished goods. While that sounds logical and sensible, there is evidence showing that such a transition will not by-pass the informal economy.</p>\n<p><strong>By Charles Dhewa</strong></p>\n<p>Lessons from South Africa’s middle class trap What the South African economy is going through is an important indicator of the fact that a distinct development approach unique to African contexts should not ignore the informal economy. By embracing the Western model of economic development, South Africa has become locked into a middle class trap without realizing it. The country is now being forced to develop agriculture as a second economy because the current industrial system has no room the majority of people to participate as economic actors. Inequality, poverty and unemployment are increasing due to deep structural challenges imposed by the Western model of economic development. The domestic market is too small for the level of industrialization that has been provoked in South Africa.<br />\nYou cannot be a successful manufacturing country when the domestic market cannot afford what you are producing. Due to insufficient local buying power, South Africa has reached the limits of its industrialization. It is now trying to use the supermarket model to break out of structural economic challenges. That is why South African super market chains are spreading their wings into neighboring African countries and as far as East Africa. In an aggressive effort to broaden demand for products from its sprawling industrial sector, South African supermarkets are getting into countries such as Zimbabwe, Mozambique, Malawi, Zambia and other countries where local companies cannot compete due to poor supply chains.<br />\nBesides triggering resentment in the business circles of neighboring countries, the super market model is not sustainable because the middle class in those countries is too small to sustain levels of production in South Africa. The supermarket model focuses on meeting the needs of the middle class who earn more than $4/day. On the other hand, the majority of African consumers earn less than $1/day. That class does not go to supermarkets but resort to the informal market. No wonder the informal market is expanding in many African countries. Manufacturing is a good idea but once it puts finished products beyond the reach of the majority of consumers, it stops contributing to economic growth. It becomes big business without growth or employment creation and that is not sustainable at all.<br />\n<strong>The importance of fully understanding domestic markets </strong><br />\nAssuming developing countries are determined to move completely from raw commodities to manufactured agricultural products, it is critical to fully understand the domestic market before exploring foreign markets which tend to be highly competitive and antagonistic. You cannot talk of value addition without an accurate sense of how much stocks are available in domestic markets per given period. Every country should strive to know the local demand for each of its commodities ranging from horticulture, field crops and livestock. Such intelligence should be dis-aggregated according to population, buying power, class, age, gender, consumer taste, consumption patterns and other important factors. Where consumption of particular commodities is going up or down or remaining stagnant, reasons should be teased out in order to inform socio-economic decisions.</p>\n<p><strong>Diversifying sources of evidence </strong><br />\nWhile much of the practical socio-economic wisdom is now within the informal economy, economists and financial advisors in developing countries are still reluctant or unable to learn from this important sector. They prefer sticking to text book knowledge which, unfortunately, is being borrowed from the West where the context is different. Like all truth, knowledge from the informal economy is likely to be ridiculed first, violently opposed and then finally accepted as self-evident. One of the reasons this knowledge is being ignored is because it flies in the face of what is considered common sense in academic and policy circles. Having invested a lot of resources into what they think is knowledge, it is difficult for formal knowledge systems to accept that reliable knowledge can be found in unexpected places like informal markets. However, developing countries do not have the luxury of letting such important knowledge languish in obscurity when it can provide the much-needed solutions.</p>\n<p><strong>Charles Dhewa is the </strong><b>Chief Executive Officer of </b><b>Knowledge Transfer Africa (KTA). He</b><strong> can be contacted on Charles@knowledgetransafrica.com / charles@emkambo.co.zw / info@knowledgetransafrica.com. </strong><strong>Website: www.emkambo.co.zw / www.knowledgetransafrica.com </strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In African countries where agriculture is a major socio-economic activity, policy makers and development agencies seem determined to move economic activities from agriculture to manufacturing. The whole discourse around value addition suggests a strong desire to get rid of informal marketing of agricultural commodities and convert all commodities into manufactured products which can be bought&nbsp;</p>\n<p><a class=\"btn btn-style\" href=\"http://263chat.com/informal-economy-tackles-middle-class-trap/\">Read More</a></p>\n",
+      "protected": false
+    },
+    "author": 2128,
+    "featured_media": 15493,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      16,
+      1113
+    ],
+    "tags": [
+      1798,
+      2094
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16094"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/users/2128"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/comments?post=16094"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/posts/16094/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/media/15493"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://263chat.com/wp-json/wp/v2/media?parent=16094"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/categories?post=16094"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://263chat.com/wp-json/wp/v2/tags?post=16094"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "code": "rest_user_invalid_id",
+          "message": "Invalid user ID.",
+          "data": {
+            "status": 404
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 15493,
+          "date": "2017-02-27T11:25:28",
+          "slug": "emkambo2",
+          "type": "attachment",
+          "link": "http://263chat.com/african-agriculture-expresses-differences-men-women/emkambo2/",
+          "title": {
+            "rendered": "eMkambo2"
+          },
+          "author": 6,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/png",
+          "media_details": {
+            "width": 772,
+            "height": 604,
+            "file": "2017/02/eMkambo2.png",
+            "sizes": {
+              "thumbnail": {
+                "file": "eMkambo2-150x150.png",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-150x150.png"
+              },
+              "medium": {
+                "file": "eMkambo2-300x235.png",
+                "width": 300,
+                "height": 235,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-300x235.png"
+              },
+              "medium_large": {
+                "file": "eMkambo2-768x601.png",
+                "width": 768,
+                "height": 601,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-768x601.png"
+              },
+              "newedge-full": {
+                "file": "eMkambo2-772x536.png",
+                "width": 772,
+                "height": 536,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-772x536.png"
+              },
+              "newedge-thumb": {
+                "file": "eMkambo2-555x536.png",
+                "width": 555,
+                "height": 536,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-555x536.png"
+              },
+              "newedge-small": {
+                "file": "eMkambo2-263x253.png",
+                "width": 263,
+                "height": 253,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2-263x253.png"
+              },
+              "full": {
+                "file": "eMkambo2.png",
+                "width": 772,
+                "height": 604,
+                "mime_type": "image/png",
+                "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2.png"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://263chat.com/wp-content/uploads/2017/02/eMkambo2.png",
+          "_links": {
+            "self": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media/15493"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://263chat.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/users/6"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://263chat.com/wp-json/wp/v2/comments?post=15493"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 16,
+            "link": "http://263chat.com/category/263chat/",
+            "name": "#263Chat",
+            "slug": "263chat",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/16"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=16"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 1113,
+            "link": "http://263chat.com/category/guest-columnist/",
+            "name": "Guest columnist",
+            "slug": "guest-columnist",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories/1113"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?categories=1113"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 1798,
+            "link": "http://263chat.com/tag/charles-dhewa/",
+            "name": "Charles Dhewa",
+            "slug": "charles-dhewa",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/1798"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=1798"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 2094,
+            "link": "http://263chat.com/tag/knowledge-transfer-africa/",
+            "name": "Knowledge Transfer Africa",
+            "slug": "knowledge-transfer-africa",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags/2094"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "http://263chat.com/wp-json/wp/v2/posts?tags=2094"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  }
+]

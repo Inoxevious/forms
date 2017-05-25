@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>263chat</title>
+
+    <!-- CSS  -->
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Lora|Roboto|Roboto+Condensed|Titillium+Web" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="lib/genericons/genericons.css">
+    <link rel="stylesheet" href="base.css">
+    <script type="text/javascript" src="js/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyBnMCDzwMXNhSh4tByDPKlCs3JH7F5-V60",
+            authDomain: "liveticker-1c33c.firebaseapp.com",
+            databaseURL: "https://liveticker-1c33c.firebaseio.com",
+            storageBucket: "liveticker-1c33c.appspot.com",
+            messagingSenderId: "643222519289"
+        };
+        firebase.initializeApp(config);
+        // Retrieve Firebase Messaging object.
+        const messaging = firebase.messaging();
+        messaging.requestPermission()
+            .then(function() {
+                console.log('Notification permission granted.');
+                // TODO(developer): Retrieve an Instance ID token for use with FCM.
+                // ...
+            })
+            .catch(function(err) {
+                console.log('Unable to get permission to notify.', err);
+            });
+
+
+    </script>
+
+</head>
+<body style="background-color: white; font-family: 'Roboto', sans-serif;">
+<div id="fb-root"></div>
+<script>
+
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1747088275621523";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<nav style="position: fixed; margin-top: 0px; z-index: 1004; color:white;overflow-x: hidden;"  class="blue" role="navigation">
+    <div class="nav-wrapper container"><a style="color: white; font-weight: 300" id="logo-container" href="index.html" class="brand-logo">Business Loan Application
+        <ul class="right hide-on-med-and-down">
+            <!--<li><a href="#">Navbar Link</a></li>-->
+
+
+
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+
+            <div class="nav-top">
+                <div style="width: 100%">
+                    <img src="img/rubiem.JPG" width="100%">
+                </div>
+
+            </div>
+            <li>
+                <a href="index.html">HOME</a></li>
+            <li onclick=""><a href="contact.html">ORDER AN APP</a></li>
+            <li><a href="portfolio.html">PORTFOLIO</a></li>
+            <li><a href="#">PRODUCTS</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+        <a style="margin-top: 10px" href="#" id="menu" data-activates="nav-mobile" class="button-collapse waves-effect waves-circle">
+            <!--<img style="margin-top: 15px;" src="img/bar2.png">-->
+            <svg  fill="#ffffff" height="36" viewBox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+        </a>
+        <a style="display: none;margin-top: 14px" href="index.html" id="left-arrow"  class="left vib waves-effect waves-circle">
+            <!--<img style="margin-top: 15px;" src="img/left-arrow.png">-->
+            <svg style="" fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+            </svg>
+        </a>
+        <a style="margin-top: 8px" href="#modal1" id="more-vert"  class="right dropdown-button waves-effect waves-circle">
+            <svg style="margin-top: 3px" fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>
+            </svg>
+        </a>
+
+        <div  id="modal1" class="modal">
+
+            <ul  style="width: 100%; color: black">
+                <li><a style="width: 100%; color: black">
+                    <div style="width: 100%"  class="row">
+                        <div class="col s12" ><a style="width: 100%; color: black" href="settings.html">Settings</a></div>
+                    </div>
+                </a></li>
+
+
+            </ul>
+
+
+            <!--<div class="switch">-->
+            <!--<label>-->
+            <!--Turn notifications on or off-->
+            <!--<input type="checkbox">-->
+            <!--<span class="lever"></span>-->
+
+            <!--</label>-->
+            <!--</div>-->
+
+
+        </div>
+    </div>
+</nav>
+
+<!--<div id="ptr">-->
+<!--<span class="genericon genericon-next"></span>-->
+
+<!--<div class="loading">-->
+<!--<span id="l1"></span>-->
+<!--<span id="l2"></span>-->
+<!--<span id="l3"></span>-->
+<!--</div>-->
+<!--</div>-->
+
+
+
+  <div id="jona" style="padding-top: 60px;" class="container">
+  <div class="row">
+    <img style="margin-top: 40px; margin-left: 25%;" src="img/LFZ%20Logo%20(1).JPG"/>
+    <form class="col s12">
+      <div class="row">
+	  <div class="content-block-title">Section B</div>
+<div class="list-block">
+  <ul>
+    <!-- Text inputs -->
+    <li>
+      <div class="item-content">
+      <!--  <div class="item-media"><i class="icon f7-icons">person</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label"> Company Name</div>
+          <div class="item-input">
+            <input placeholder="Company Name" id="Company_Name" type="text" class="validate">
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+       <!-- <div class="item-media"><i class="icon f7-icons">person</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Trade Name</div>
+          <input placeholder="Trade Name" id="Trade_Name" type="text" class="validate">
+<div class="item-input" ID="Postal_Address" class="validate">       </div>
+        </div>
+      </div>
+    </li>
+	<li class="align-top">
+      <div class="item-content">
+       <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Postal Address</div>
+          <div class="item-input" ID="Postal_Address" class="validate">
+            <textarea></textarea>
+          </div>
+        </div>
+      </div>
+    </li>
+	<li class="align-top">
+      <div class="item-content">
+      <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Physical Address</div>
+          <div class="item-input" ID="Physical_Address" class="validate">
+            <textarea></textarea>
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+        <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Phone Number</div>
+          <div class="item-input">
+<input placeholder="Phone Number" id="Phone_Number" type="text" class="validate">          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+       <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Contact Person</div>
+          <div class="item-input">
+            <input placeholder="Contact Person" id="Contact_Person" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+       <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Designation</div>
+          <div class="item-input">
+            <input type="text" placeholder="Text">
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+     <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Cell Number</div>
+          <div class="item-input">
+            <input placeholder="Cell Number 1" id="Cell_Number1" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+       <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Cell Number</div>
+          <div class="item-input">
+            <input placeholder="Cell Number 2" id="Cell_Number2" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content">
+       <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">E-mail</div>
+          <div class="item-input">
+ <input placeholder="e-mail 1" id="e-mail1" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+	<li>
+      <div class="item-content">
+<!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">E-mail</div>
+          <div class="item-input">
+             <input placeholder="e-mail 1" id="e-mail1" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+	 <div class="item-content">
+    <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Website</div>
+          <div class="item-input">
+                 <input placeholder="e-mail 1" id="website" type="text" class="validate"> 
+          </div>
+        </div>
+      </div>
+    </li>
+	<div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Bank Account</div>
+          <div class="item-input">
+            <input type="Bank Account" placeholder="Bank_Account" id="Fax">
+          </div>
+        </div>
+      </div>
+	  </li>
+	  <div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Sort Code</div>
+          <div class="item-input">
+            <input type="Sort Code" placeholder="Sort_Code" id="Fax">
+          </div>
+        </div>
+      </div>
+    </li>  <div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Purpose of Account</div>
+          <div class="item-input">
+            <input type="Purpose of Account" placeholder="Purpose_of_Account" id="Fax">
+          </div>
+        </div>
+      </div>
+    </li>
+	<div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Number of Outlets</div>
+          <div class="item-input">
+            <input type="Purpose of Account" placeholder="Purpose_of_Account" id="Fax">
+          </div>
+        </div>
+      </div>
+    </li>
+	<div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Primary Business Activiy</div>
+          <div class="item-input">
+            <input type="Primary Business Activiy" placeholder="Primary_Business_Activiy" id="Fax">
+          </div>
+        </div>
+      </div>
+    </li>
+	<div class="item-content">
+ <!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Number of Employees</div>
+          <div class="item-input">
+            <input type="Number of Employees" placeholder="Number_of_Employees" id="Fax">
+          </div>
+        </div>
+      </div>
+    </li>
+
+  <form action="#">
+  <div class= "row">
+    <p>
+      <input name="group1" type="radio" id="test1" />
+      <label for="test1">Owned</label>
+    </p>
+    <p>
+      <input name="group1" type="radio" id="test2" />
+      <label for="test2">Leased</label>
+    </p>
+    <p>
+      <input class="with-gap" name="group1" type="radio" id="test3"  />
+      <label for="test3">Rented</label>
+    </p>
+   
+	</div>
+  </form>
+    <!-- Select -->
+   
+    <!-- Date -->
+	<div class="item-content">
+<!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Company Reg Number</div>
+          <div class="item-input">
+            <input type="email" placeholder="Company Reg Number" id="Company_Reg_Number">
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content">
+<!--  <div class="item-media"><i class="icon f7-icons">chat</i></div> -->
+        <div class="item-inner">
+          <div class="item-title label">Company Reg Date</div>
+          <div class="item-input">
+            <input type="date" placeholder="Birth day" id="Company_Reg_Date" value="2014-04-30">
+          </div>
+        </div>
+      </div>
+    </li>
+    
+    
+    
+  </ul>
+</div>
+<div class="row">
+      
+      </div>
+	 <a onclick="postData()" style="width: 100%; background-color: #0D47A1;" class="blue waves-effect waves-light btn" href="sectionb.html">CONTINUE</a>
+    </div>
+
+
+
+
+    <div class="fixed-action-btn horizontal click-to-toggle" style="bottom: 45px;right: 24px;">
+        <a  href="#modal2"  class="btn-floating btn-large light-green">
+            <i class="large material-icons">
+                <svg fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/>
+                </svg>
+            </i>
+        </a>
+
+
+    </div>
+    <div style="z-index: 1004;" id="modal2" class="modal">
+        <div class="modal-content">
+            <img src="img/rubiem.JPG" width="100%">
+            <div style="margin-top: 30px" class="row">
+                <div class="col s6">
+                    <a style="margin-left: 50%" class="btn blue btn-floating pulse"><img src="img/facebook-letter-logo%20(1).png"> </a>
+
+                </div>
+                <div class="col s6">
+                    <a class="btn white btn-floating pulse"><img src="img/twitter%20(1).png"> </a>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="modal-footer">
+            <p style="text-align: center">www.rubiem.com</p>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+</div>
+<!--<div style="padding-top: 70px; font-family: 'Roboto', sans-serif; color:black" class="container" id="details">-->
+
+
+
+</div>
+
+
+
+
+
+
+<!--  Scripts-->
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/init.js"></script>
+<script src="js/moment.js"></script>
+<script src="js/jonah.js"></script>
+
+
+
+<!--<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>-->
+<!--<script>-->
+<!--// Initialize Firebase-->
+<!--var config = {-->
+<!--apiKey: "AIzaSyBnMCDzwMXNhSh4tByDPKlCs3JH7F5-V60",-->
+<!--authDomain: "liveticker-1c33c.firebaseapp.com",-->
+<!--databaseURL: "https://liveticker-1c33c.firebaseio.com",-->
+<!--storageBucket: "liveticker-1c33c.appspot.com",-->
+<!--messagingSenderId: "643222519289"-->
+<!--};-->
+<!--firebase.initializeApp(config);-->
+<!--</script>-->
+<script src="js/firebase.js"></script>
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyA7x06ltUqE1sbVOR6l-kyXf56QNNXg3zQ",
+        authDomain: "mediaapp-ca73d.firebaseapp.com",
+        databaseURL: "https://mediaapp-ca73d.firebaseio.com",
+        storageBucket: "mediaapp-ca73d.appspot.com",
+        messagingSenderId: "522496799631"
+    };
+    firebase.initializeApp(config);
+
+//    document.getElementById('cap').addEventListener('change', handleCaption, false);
+</script>
+<script src="js/live.js"></script>
+
+<script src="js/cordova.js">
+</script>
+
+<script src="lib/hammer.2.0.4.js"></script>
+<script src="lib/wptr.1.1.js"></script>
+
+
+<script src="js/pouchdb.js">
+</script>
+
+<script src="js/pouchdb.find.js">
+</script>
+<script>
+    $(document).ready(function() {
+        $('select').material_select();
+    });
+
+
+    var db = new PouchDB('my_database');
+    //    db.destroy(function (err, response) {
+    //        if (err) {
+    //            return console.log(err);
+    //        } else {
+    //            console.log('database deleted!!!!!');
+    //        }
+    //    });
+
+
+    function displayNews() {
+        db.allDocs({include_docs: true, descending: true}, function(err, doc) {
+            redrawTodosUI(doc.rows);
+            if (err){
+                console.log(err);
+            }
+        });
+    }displayNews();
+
+    $(document).ready(function(){
+        // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+        $('.modal').modal();
+    });
+
+</script>
+<script>
+
+    function postData (name, surname ,company,phone,email,type ) {
+        name = document.getElementById('first_name').value;
+        surname = document.getElementById('last_name').value;
+        company = document.getElementById('disabl').value.trim();
+        phone = document.getElementById('disabled').value;
+        email = document.getElementById('email').value;
+        type =   document.getElementById('select').value;
+        var  currentTime = new Date();
+        console.log(currentTime.getTime());
+
+
+
+        firebase.database().ref('app/').push(
+            {
+                //in the meantime I just want to store these three fields for the agent
+                "name": name,
+                "surname": surname,
+                "company": company,
+                "phone": phone,
+                "email": email,
+                "type": type
+            }
+        );
+
+
+    }
+
+
+</script>
+
+
+</body>
+</html>
